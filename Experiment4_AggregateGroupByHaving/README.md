@@ -1,10 +1,10 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## NAME: Keerthivasan K S
-## REG.NO: 212224230120
+## NAME: Singamala Rakshitha
+## REG.NO: 212222060245
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
-## THEORYa
+## THEORY
 
 ### Aggregate Functions
 These perform calculations on a set of values and return a single value.
